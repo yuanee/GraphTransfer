@@ -3,8 +3,7 @@
 """
 Created on Wed Feb  6 17:03:54 2019
 
-@author: Andrey Gritsenko
-         SPIRAL Group
+@author: SPIRAL Group
          Electrical & Computer Engineering
          Northeastern University
 """
