@@ -1,13 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-""" 
-Created on Fri Jun 28 12:11:04 2019
 
-@author: Andrey Gritsenko
-         SPIRAL Group
-         Electrical & Computer Engineering
-         Northeastern University
-"""
 
 import os
 import numpy as np

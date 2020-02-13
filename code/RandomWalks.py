@@ -1,13 +1,6 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-""" 
-Created on Thu Jul 18 12:23:43 2019
 
-@author: Andrey Gritsenko
-         SPIRAL Group
-         Electrical & Computer Engineering
-         Northeastern University
-"""
 
 import random
 import numpy as np

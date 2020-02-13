@@ -1,13 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-""" 
-Created on Tue Mar 26 16:28:49 2019
-
-@author: Andrey Gritsenko
-         SPIRAL Group
-         Electrical & Computer Engineering
-         Northeastern University
-"""
 
 """
 Module loads data and also creates synthetic data

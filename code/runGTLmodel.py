@@ -1,13 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Fri Feb 22 14:22:31 2019
-
-@author: Andrey Gritsenko
-         SPIRAL Group
-         Electrical & Computer Engineering
-         Northeastern University
-"""
 
 """
 Main module to run GTL model. Depending on the input command line parameters, it loads certain data, creates specific GTL model, trains it on train data, tests on test data, and outputs results

@@ -1,12 +1,13 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Feb  6 17:03:54 2019
 
+<<<<<<< HEAD
+=======
 @author: SPIRAL Group
          Electrical & Computer Engineering
          Northeastern University
 """
+>>>>>>> 8b2c29d45e2d5af6ead253939105a19c67b00335
 
 """
 Module contains data generator for batch training 

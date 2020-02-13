@@ -1,13 +1,5 @@
 #!/usr/bin/env python2
 # -*- coding: utf-8 -*-
-""" 
-Created on Thu Jul 18 13:04:24 2019
-
-@author: Andrey Gritsenko
-         SPIRAL Group
-         Electrical & Computer Engineering
-         Northeastern University
-"""
 
 import argparse
 import os
